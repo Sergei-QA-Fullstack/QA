@@ -1,3 +1,2 @@
-import requests
-
-requests.get(url = 'https://api.example.com/data')
+x="lesson123"
+print(x)
